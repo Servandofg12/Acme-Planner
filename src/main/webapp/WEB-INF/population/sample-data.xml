@@ -218,7 +218,7 @@
 		<property name="startMoment" value= "2021/02/21 14:10"/>
 		<property name="endMoment" value="2023/03/31 10:46"/>
 		<property name="description" value="Change the logo of the website to your favourite photo"/>
-		<property name="workload" value="125.44"/>
+		<property name="workload" value="25.44"/>
 		<property name="status" value="PUBLIC"/>
 		<property name="link"> <null/></property>
       <property name="manager" ref="administratorManager2"/>
@@ -238,7 +238,7 @@
 		<property name="startMoment" value= "2021/01/21 18:0"/>
 		<property name="endMoment" value="2022/12/11 21:00"/>
 		<property name="description" value="Add your contact address and delete your favourite link"/>
-		<property name="workload" value="46.6"/>
+		<property name="workload" value="46.5"/>
 		<property name="status" value="PUBLIC"/>
 		<property name="link"> <null/></property>
     <property name="manager" ref="administratorManager2"/>
@@ -258,7 +258,7 @@
 		<property name="startMoment" value= "2019/01/21 14:00"/>
 		<property name="endMoment" value="2019/12/30 10:00"/>
 		<property name="description" value="Change the logo of the website to a puppy photo"/>
-		<property name="workload" value="125.44"/>
+		<property name="workload" value="25.44"/>
 		<property name="status" value="PUBLIC"/>
 		<property name="link"> <null/></property>
     <property name="manager" ref="administratorManager"/>
@@ -278,7 +278,7 @@
 		<property name="startMoment" value= "2021/02/01 00:0"/>
 		<property name="endMoment" value="2021/02/28 00:00"/>
 		<property name="description" value="Populate Data Base with new information"/>
-		<property name="workload" value="62.6"/>
+		<property name="workload" value="62.3"/>
 		<property name="status" value="PUBLIC"/>
 		<property name="link"> <null/></property>
 		<property name="manager" ref="administratorManager2"/>
