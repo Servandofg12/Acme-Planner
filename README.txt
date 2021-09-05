@@ -12,4 +12,4 @@ This is the Acme Work-Plans, my second project in D&T.
 
 Link del repositorio de GitHub: https://github.com/Servandofg12/Acme-Work-Plans
 
-Enlace a la release: https://github.com/Servandofg12/Acme-Work-Plans/releases/tag/2.0
+Enlace a la release: https://github.com/Servandofg12/Acme-Work-Plans/releases/tag/3.0
